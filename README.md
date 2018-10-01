@@ -1,5 +1,5 @@
 # intelligence-recruitment
-Application 
+
 
 Given the permanent need of the company for the recruitment of
 new employees, as well as the increase in the number of
