@@ -31,4 +31,8 @@ In this project ,as first approach the chatbot will just be used to computer sci
 This project is still just a try to see how relevant this chat bot could be using Watson technologie .
 
 
-https://github.com/yassir-jaka/intelligence-recruitment/blob/Presentation/Description%20du%20projet.pdf
+# Description of the Project :
+
+[click here to visualize it](https://github.com/yassir-jaka/intelligence-recruitment/blob/Presentation/Description%20du%20projet.pdf)
+
+
