@@ -29,3 +29,6 @@ save valuable time for recruiters.
 In this project ,as first approach the chatbot will just be used to computer science feild related jobs , for the incoming developement ,we'll try to generalize it to the rest of feilds and make it easier to be implemented in web server .
 
 This project is still just a try to see how relevant this chat bot could be using Watson technologie .
+
+
+https://github.com/yassir-jaka/intelligence-recruitment/blob/Presentation/Description%20du%20projet.pdf
