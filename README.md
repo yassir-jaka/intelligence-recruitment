@@ -35,4 +35,5 @@ This project is still just a try to see how relevant this chat bot could be usin
 
 [click here to visualize it](https://github.com/yassir-jaka/intelligence-recruitment/blob/Presentation/Description%20du%20projet.pdf)
 
-
+# Business canevas :
+[here]()
