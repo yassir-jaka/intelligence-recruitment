@@ -35,5 +35,5 @@ This project is still just a try to see how relevant this chat bot could be usin
 
 [click here to visualize it](https://github.com/yassir-jaka/intelligence-recruitment/blob/Presentation/Description%20du%20projet.pdf)
 
-# Business canevas :
-[here]()
+# Business Model Canvas :
+[here](https://github.com/yassir-jaka/intelligence-recruitment/blob/Presentation/Business-Model-Canvas-INNOV-IT_AUSIM-2017.pdf)
